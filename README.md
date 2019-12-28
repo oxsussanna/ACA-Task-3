@@ -179,7 +179,7 @@ $$
 | **sjeng**         | 4.625925 | 4.635467 | 4.732145 | 5.845645 |
 | **hmmer**         | 0.134371 | 0.137747 | 0.118453 | 0.445031 |
 
-
+![L1d_assoc](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/EDAP/L1dassoc3.png)
 
 | **EDAP/L1d_assoc** | 2         | 4         | 8        | 16        |
 | ------------------ | --------- | --------- | -------- | --------- |
@@ -191,6 +191,8 @@ $$
 
 
 
+![L1i_size](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/EDAP/L1i_size3.png)
+
 | **EDAP/L1i_size** | 16        | 32        | 64        | 128       |
 | ----------------- | --------- | --------- | --------- | --------- |
 | **bzip**          | 0.648403  | 0.653566  | 0.932365  | 1.200771  |
@@ -199,7 +201,7 @@ $$
 | **sjeng**         | 11.943750 | 12.044533 | 17.738156 | 23.066181 |
 | **hmmer**         | 0.314479  | 0.316494  | 0.464397  | 0.607767  |
 
-
+![L1i_assoc](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/EDAP/L1i_assoc3.png)
 
 | **EDAP/L1i_assoc** | 2         | 4         | 8         | 16        |
 | ------------------ | --------- | --------- | --------- | --------- |
@@ -209,7 +211,7 @@ $$
 | **sjeng**          | 23.066181 | 20.941490 | 16.251469 | 17.217241 |
 | **hmmer**          | 0.607706  | 0.566261  | 0.434398  | 0.461669  |
 
-
+![L2_size](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/EDAP/L2_size3.png)
 
 | **EDAP/L2_size** | 1         | 2        | 4         |
 | ---------------- | --------- | -------- | --------- |
@@ -221,7 +223,7 @@ $$
 
 
 
-
+![L2_assoc](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/EDAP/L2_assoc3.png)
 
 | **EDAP/L2_assoc** | 2         | 4         | 8         | 16        |
 | ----------------- | --------- | --------- | --------- | --------- |
@@ -231,7 +233,7 @@ $$
 | **sjeng**         | 21.980169 | 22.235434 | 22.350830 | 22.221432 |
 | **hmmer**         | 0.363260  | 0.363196  | 0.363134  | 0.364593  |
 
-
+![cacheline_size](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/EDAP/Cacheline_size3.png)
 
 | **EDAP/cache_line** | 32        | 64        | 128       |
 | ------------------- | --------- | --------- | --------- |
@@ -247,6 +249,10 @@ $$
 
 Παρακάτω παραθέτουμε πίνακες και διαγράμματα που δείχνουν πόσο τα στοιχεία L2_size, L2_assoc και cacheline_size επηρρεάζουν το Area και το Peak Dynamic:
 
+
+
+![L2_size](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/AreaPeakDynamic/AreaL2size.png)
+
 | Area/L2_size | 1        | 2        | 4        |
 | ------------ | -------- | -------- | -------- |
 | bzip         | 12.5081  | 15.34609 | 21.66469 |
@@ -254,6 +260,14 @@ $$
 | libm         | 8.64556  | 11.48356 | 17.80216 |
 | sjeng        | 18.6214  | 21.4594  | 27.778   |
 | hmmer        | 14.5738  | 17.4118  | 23.7304  |
+
+
+
+
+
+![L2_sizePeak](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/AreaPeakDynamic/PeakDynL2size.png)
+
+
 
 
 
@@ -267,6 +281,10 @@ $$
 
 
 
+
+
+![L2_assoc](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/AreaPeakDynamic/AreaL2assoc.png)
+
 | Area/L2_assoc | 2        | 4        | 8        | 16       |
 | ------------- | -------- | -------- | -------- | -------- |
 | bzip          | 21.21969 | 21.50819 | 21.66469 | 21.49549 |
@@ -277,7 +295,7 @@ $$
 
 
 
-
+![L2_assocpeak](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/AreaPeakDynamic/PeakdynL2assoc.png)
 
 | Peak Dynamic/L2_assoc | 2       | 4       | 8       | 16      |
 | --------------------- | ------- | ------- | ------- | ------- |
@@ -289,7 +307,7 @@ $$
 
 
 
-
+![cacheline](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/AreaPeakDynamic/Areacacheline.png)
 
 
 
@@ -301,7 +319,7 @@ $$
 | sjeng               | 27.2331  | 27.333   | 40.6326  |
 | hmmer               | 14.41278 | 14.57919 | 35.9756  |
 
-
+![cachelinepeak]https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/AreaPeakDynamic/Peakdyncacheli.png)
 
 
 
@@ -320,6 +338,20 @@ $$
 ##### Ερώτημα 3ο:
 
 Εφόσον πραγματοποιήσαμε τα διαγράμματα και τους πίνακες για να δείξουμε τον τρόπο που επιδρά η μεταβολή κάθε παραμέτρου (cache line size,associativity και size της L2) στα Area και Peak Dynamic, είμαστε σε θέση να πούμε ότι η αύξηση του assoc δεν επηρεάζει σχεδόν καθόλου τις 2 παραμέτρους σε αντίθεση με τα cache line size και L2_size. Μάλιστα στην πρώτη περίπτωση έχουμε εντυπωσική αύξηση για ανάλογη αύξηση των παραμέτρων. Καταλαβαίνουμε λοιπόν ότι σε σχέση με το κόστος, που είχαμε αύξηση του και την αντίστοιχη αύξηση της κάθε παραμέτρου δε συμβαίνει το ίδιο και με τον παράγοντα της ισχύος.
+
+
+
+
+
+
+
+## Βιβλιογραφία: 
+
+
+
+
+
+
 
 
 
