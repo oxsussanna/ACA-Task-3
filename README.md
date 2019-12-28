@@ -169,7 +169,7 @@ $$
 
 Παρακάτω παραδίδουμε το EDAP για τα benchmarks μεταβάλλοντας κάθε φορά μία από τις παραμέτρους:
 
-
+![L1d_size](https://github.com/oxsussanna/ACA-Task-3/blob/master/Bars%20and%20Charts/EDAP/L1dsize.png)
 
 | **EDAP/L1d_size** | 16       | 32       | 64       | 128      |
 | ----------------- | -------- | -------- | -------- | -------- |
