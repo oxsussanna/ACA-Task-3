@@ -347,7 +347,19 @@ $$
 
 ## Βιβλιογραφία: 
 
+- http://gem5.org/Main_Page
 
+- http://homepages.inf.ed.ac.uk/bgrot/pubs/SOP_ISCA12.pdf
+
+- https://www.onlinecharttool.com
+
+- https://el.wikipedia.org/wiki/%CE%9A%CE%B5%CE%BD%CF%84%CF%81%CE%B9%CE%BA%CE%AE_%CE%9C%CE%BF%CE%BD%CE%AC%CE%B4%CE%B1_%CE%95%CF%80%CE%B5%CE%BE%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%CF%82
+
+- http://ece-research.unm.edu/jimp/611/slides/chap5_2.html
+
+- https://www.hpl.hp.com/research/mcpat/
+
+  
 
 
 
